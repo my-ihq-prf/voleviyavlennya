@@ -5,25 +5,29 @@ title:  "Welcome to the "Declaration Of Will"!"
 
 {% include h-top-bandera.html %}
 
-<h3 id="волевиявлення-людини-вияв-волі-людини"><strong>«ВОЛЕВИЯВЛЕННЯ <span style="color: #f80000;">ЛЮДИНИ</span>.»</strong> (вияв волі людини)</h3>
+<p style="display: inline-flex;line-height: 1.3em;margin-top: .5em;">
+<span id="волевиявлення-людини-вияв-волі-людини"><strong style="
+    font-size: 1.3em;
+">«ВОЛЕВИЯВЛЕННЯ <span style="color: #f80000;">ЛЮДИНИ</span>»</strong>
+<span style="font-size: 1.14em;letter-spacing: .02em;">
+<font> (</font>
+<span style="padding: 0;position: relative;bottom: 0.08em;"><font>вияв волі людини</font></span>
+<font> )</font>
+</span>
+</span>
+</p>
+<p style="display: inline-flex;line-height: 1.3em;margin-top: .5em;"><font style="font-size: 1.5em;padding: 0 .2em 0.4em .2em;transform: rotate(180deg);display: inline-block;height: .5em;">👀</font>
 
-<div style="display: inline-flex;height: 1.32em;"><font style="font-size: 1.5em;padding: 0 .2em 1.2em .2em;transform: rotate(180deg);display: inline-block;">👀</font>
-
-<div style="
-    padding: 0 0 2em 0;
-">
 <span style="
     font-size: large;
-">коли <strong>«фізична особа»</strong> починає <strong>проявляти волю</strong> - вона вже перестає бути <strong>«фізичною особою»</strong></span></div></div>
+">Коли <strong>«фізична особа»</strong> починає <strong>проявляти волю</strong> - вона вже перестає бути <strong>«фізичною особою»</strong></span></p>
 
-<div style="display: inline-flex;"><font style="font-size: 1.5em;padding: 0 .2em 0 .2em;transform: rotate(180deg);display: inline-block;line-height: 0;height: .3em;">👀</font>
+<p style="display: inline-flex;line-height: 1.3em;margin-top: .5em;"><font style="font-size: 1.5em;padding: 0 .2em 0.4em .2em;transform: rotate(180deg);display: inline-block;height: .5em;">👀</font>
 
-<div style="
-    padding: 0 0 0 0;
-">
 <span style="
     font-size: large;
-">Якщо <strong>не визнають вашу <a href="{{site.github.url}}/pages/guide/zagalna-harakteristika-pravosubyektnosti.html">«правосуб'єктність»</a></strong>, то та посадова особа - <strong> чинить вам юридичну смерть</strong>❗ А <strong>юридична смерть прирівнюється по відповідальності до фізичної смерті</strong>. Це все одно, що <strong>вбити фізично людину</strong></span></div></div>
+">Якщо <font style="
+">не визнають вашу <a href="{{site.github.url}}/pages/guide/zagalna-harakteristika-pravosubyektnosti.html" target="_blank">«правосуб'єктність»</a></font>, то та посадова особа - <strong> чинить вам юридичну смерть</strong>❗ А <strong>юридична смерть прирівнюється по відповідальності до фізичної смерті</strong>. Це все одно, що <strong>вбити фізично людину</strong></span></p>
 
 #### - [Declaration Of Will](https://en.wiktionary.org/wiki/declaration_of_will) : ([law](https://en.wiktionary.org/wiki/law#English "law")) A [private](https://en.wiktionary.org/wiki/private#English "private") [outward](https://en.wiktionary.org/wiki/outward#English "outward") [manifestation](https://en.wiktionary.org/wiki/manifestation#English "manifestation") of [intention](https://en.wiktionary.org/wiki/intention#English "intention") which is [directly](https://en.wiktionary.org/wiki/direct#English "direct") [aimed](https://en.wiktionary.org/wiki/aim#English "aim") at bringing about a [legal effect](https://en.wiktionary.org/wiki/legal_effect#English "legal effect").
 
