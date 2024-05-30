@@ -1,0 +1,171 @@
+<!doctype html>
+<html prefix=”og: http://ogp.me/ns#”>
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src * 'unsafe-inline' 'unsafe-eval';frame-src * https://*;">
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
+
+    {%- capture fullUrl -%}{{site.github.url}}{{page.url}}{%- endcapture -%}
+    {%- capture repoUrl -%}{{site.github.repository_url}}/blob/main/docs/{{page.path}}{%- endcapture -%}
+    {%- capture ownerUrl -%}{{ site.github.owner_url }}{%- endcapture -%}
+    {%- capture ver -%}{{ site.time | date: "%s" | modulo: 1000 }}{%- endcapture -%}
+
+
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+    <!-- https://shopify.github.io/liquid/tags/variable/ -->
+
+
+    <base href="{{ site.github.url }}/">
+    <meta name="generator" content="Jekyll v3.9.0">
+
+
+    <title>{%- include vars.html title="1" -%}</title>
+    <meta name="keywords" content="{{ site.meta.keywords }}" />
+
+    <meta property="og:title" content="{%- include vars.html title=" 1" -%}" />
+    <meta property="og:locale" content="{{ site.meta.locale }}">
+    <meta property="og:description" content="{{ site.meta.description }}" />
+    <meta property="og:site_name" content="{%- include vars.html title=" 1" -%}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{%- include vars.html fullUrl=" 1" -%}" />
+
+    <link rel="canonical" href="{%- include vars.html fullUrl=" 1" -%}" />
+
+    <meta property="og:image" content="{{ site.meta.image }}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+
+    <meta property="twitter:title" content="{%- include vars.html title=" 1" -%}">
+    <meta name="twitter:image" content="{{ site.meta.image }}">
+    <meta name="twitter:card" content="summary">
+
+    <link rel="shortcut icon" href="{{ site.meta.icon_svg }}" />
+    <link rel="icon" type="image/png" href="{{ site.meta.icon_svg }}" sizes="x" />
+    <link rel="apple-touch-icon" sizes="x" href="{{ site.meta.icon_svg }}" />
+    <link rel="mask-icon" href="{{ site.meta.icon_svg }}">
+
+
+    <script type="application/ld+json">
+       {
+            "url":"{%- include vars.html fullUrl="1" -%}",
+            "@type":"WebPage",
+            "headline":"{{ page.title | downcase }}",
+            "@context":"https://schema.org"
+        }
+    </script>
+
+    <!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style>
+
+
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+    <!-- Setup Google Analytics -->
+
+    <!-- You can set your favicon here -->
+    <!-- link rel="shortcut icon" type="image/x-icon" href="/pub/favicon.ico" -->
+
+    <!-- end custom head snippets -->
+
+    <link rel="stylesheet" href="./assets/app.css">
+    <link rel="stylesheet" href="./assets/css/home.css">
+    <script defer="" src="./assets/app.js"></script>
+    <script src="./assets/lib/clipboard/min.js"></script>
+    <link href="./assets/lib/basicLightbox/index.css" rel="stylesheet">
+    <script src="./assets/lib/basicLightbox/min.js"></script>
+    <link href="./assets/js/components/btn_donat_ua/index.css" rel="stylesheet">
+    <script defer="" src="./assets/js/components/btn_donat_ua/index.js"></script>
+
+
+</head>
+
+<body>
+    <!-- <div class="host">
+        {%
+        include video-item.html vd_cls="node-docker"
+        url="JTdCJTIyY29uZiUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGbXktaWhxLXByZi5naXRodWIuaW8lMkZwdWIlMkZ2aWRlbyUyRm5vZGUtZG9ja2VyJTJGY29uZi5qc29uJTIyJTdE"
+        %}
+
+        {%
+        include video-item.html vd_cls="index"
+        url="JTdCJTIyY29uZiUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGbXktaWhxLXByZi5naXRodWIuaW8lMkZwdWIlMkZ2aWRlbyUyRmluZGV4JTJGY29uZi5qc29uJTIyJTdE"
+        %}
+        {%
+        include video-item.html vd_cls="rss-mng"
+        url="JTdCJTIyY29uZiUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGbXktaWhxLXByZi5naXRodWIuaW8lMkZwdWIlMkZ2aWRlbyUyRnJzcy1tbmclMkZjb25mLmpzb24lMjIlN0Q="
+        %}
+    </div> -->
+    <div style="display: flex;gap: .7em;">
+        <div class="log-cap">
+            <div class="row">
+                <div class="col-1 q-pl-xs">version</div>
+                <div class="">:</div>
+                <div class="q-pl-xs">v0.1.{%- include vars.html ver="1" -%}</div>
+            </div>
+            <div class="row">
+                <div class="col-1 q-pl-xs">type</div>
+                <div class="">:</div>
+                <div class="q-pl-xs">Document</div>
+            </div>
+            <div class="row">
+                <div class="col-1 q-pl-xs">compiled</div>
+                <div class="">:</div>
+                <div class="q-pl-xs">{%- include vars.html compiled="1" -%}</div>
+            </div>
+            <div class="row">
+                <div class="col-1 q-pl-xs">status</div>
+                <div class="">:</div>
+                <div class="q-pl-xs">indexing</div>
+            </div>
+        </div>
+        <div>
+            <span>
+                <a href="{{site.github.url}}" title="home" style="font-size: 1.3em;" class="link_underline_2">
+                    <font>🏠</font>
+                </a>
+            </span>
+        </div>
+
+        <div style="
+                        width: 100%;
+                        display: inline-flex;
+                        align-items: center;
+                        justify-content: flex-end;
+                        padding: 0 1em 0 0;
+                    ">
+            <span>
+                <a href="{{site.github.url}}/pages/pray/index.html" title="pray" style="font-size: 1.5em;"
+                    class="link_underline_2">
+                    <font>🙏</font>
+                </a>
+            </span>
+            <div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-lg px-3 my-5 markdown-body">
+
+        <!--{% include github-corner.html url=repoUrl %}-->
+        {{ content }}
+        <div class="hr--i"></div>
+    </div>
+    <!-- <script type="text/javascript" src="./assets/js/vp_tt.obsf.js"></script> -->
+    <script type="text/javascript">
+        Array.prototype.slice.call(document.querySelectorAll('a[href]')).forEach(_el => {
+            if (!["home", "pray"].includes(_el.getAttribute('title'))) {
+                _el.setAttribute('target', '_blank')
+            }
+        })
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+### Format1  ###
+# .bin/
+
+### Format2  ###
+# **/.bin/**
+
+### Format3  ###
+
+**/.git/
+**/.vscode/
+
+**/.bin/
+**/.README/
+**/.scripts/
+**/.sys/
+**/node_modules/
+
+**/public/
+**/src/
+**/utils/
+**/000*
+
+**/*.000
+**/package.json
+**/package-lock.json
+
+**/.eslintrc.js
+**/LICENSE.txt
+**/* - Copy.*
+**/*.psd
+**/.ssh/
+**/.src/
+**/.build/
+**/.bkps/
+**/assets/js/index.js
+**/*.zip
+# **/.data/video/
+**/.data/
+**/.dump/
+
+**/.bkp/
+**/.temp/
+**/.files/
+**/.Downloads/
+
+**/*.doc#
+**/*.docx#

@@ -1,0 +1,8 @@
+{%- capture html -%}
+<span style="{{- include.style -}}" class="vp--tool-tip {{ include.class }}" data-vd_cls="{{- include.cls -}}"
+    data-vd_tm="{{- include.tm -}}">
+    <span>{{- include.content-}}</span>
+    <span class="vp--tool-tip-nest"></span>
+</span>
+{%- endcapture -%}
+{{- html | strip_newlines | strip -}}
