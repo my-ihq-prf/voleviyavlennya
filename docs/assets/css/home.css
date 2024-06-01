@@ -73,6 +73,7 @@ table > tr > td,
     width: 1.2em;
     height: 1.07em;
     display: inline-block;
+    margin: 0 0.2em 0 0;
 }
 
 [href][target="_blank"][href^="https://t.me/"]:before {
@@ -110,6 +111,7 @@ a[href][target="_blank"][title]:after {
 
 a[href][target="_blank"],
 .link_underline_2 {
+    display: inline-flex;
     text-shadow: 0 0 .1px black, 0 0 .2px black, 0 0 .3px black, 0 0 .4px black;
 }
 

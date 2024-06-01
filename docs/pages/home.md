@@ -22,6 +22,34 @@ title:  "Welcome to the "Declaration Of Will"!"
     font-size: large;
 ">Коли <strong>«фізична особа»</strong> починає <strong>проявляти волю</strong> - вона вже перестає бути <strong>«фізичною особою»</strong></span></p>
 
+<p><span>
+
+<font style="background: url({{site.github.url}}/assets/images/icons/svg/speaking-head.svg)no-repeat 0 0 / cover;height: 2.2em;width: 2.2em;display: inline-block;position: relative;top: .2em;left: 0.2em;    opacity: 0.6;"></font>
+
+<font style="
+    font-size: large;
+    font-weight: 500;
+    padding: 0 0 0 0.4em;
+"> Чи ви визнаєте мою</font> <a href="{{site.github.url}}/pages/guide/zagalna-harakteristika-pravosubyektnosti.html" target="_blank">«правосуб'єктність»</a><font style="
+    font-size: 1.2em;
+    font-weight: 500;
+    padding: 0 0.9em 0 0;
+    line-height: 0;
+    height: 0;
+    display: inline-block;
+    width: 0.6em;
+    position: relative;
+    top: -0.07em;
+    left: -0.1em;
+">❓</font> <font>-</font> <font style="
+    font-weight: 500;
+    color: #707981;
+    font-style: italic;
+">це перше питання яке ви задаєте перед</font> <font style="
+    font-weight: 600;
+    /* color: #707981; */
+">"Добрий день"</font> <font>.</font></span></p>
+
 <p style="display: inline-flex;line-height: 1.3em;margin-top: .5em;"><font style="font-size: 1.5em;padding: 0 .2em 0.4em .2em;transform: rotate(180deg);display: inline-block;height: .5em;">👀</font>
 
 <span style="
@@ -147,7 +175,7 @@ title:  "Welcome to the "Declaration Of Will"!"
 <details  open>
   <summary role="details-tt-you-tube">YouTube</summary>
 
-<details open>
+<details _open>
 
 <summary>Володимир Войтенко</summary>
 
@@ -155,7 +183,7 @@ title:  "Welcome to the "Declaration Of Will"!"
 
 </details>
 
-<details open>
+<details _open>
 
 <summary>Ростислав Шапошніков</summary>
 
