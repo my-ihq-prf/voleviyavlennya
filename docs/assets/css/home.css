@@ -15,6 +15,8 @@ table > tbody,
 table > tr,
 table > tbody > tr,
 table > tr > td,
+.markdown-body table > tr,
+.markdown-body table > tbody > tr,
 .markdown-body table > tbody > tr > td {
     border: none;
 }
@@ -53,7 +55,7 @@ table > tr > td,
     width: 1.1em;
     height: 1.3em;
     display: inline-block;
-    margin: 0 0.2em 0 0;
+    margin: -0.4em 0.4em 0 0;
 }
 
 [href][target="_blank"][href$=".doc"]:before,
@@ -64,6 +66,19 @@ table > tr > td,
     width: 1.07em;
     height: 1.35em;
     display: inline-block;
+    margin: -0.4em 0.4em 0 0;
+}
+
+[href][target="_blank"][href$=".png"]:before,
+[href][target="_blank"][href$=".jpg"]:before,
+[href][target="_blank"][href$=".jpeg"]:before {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/file_img.svg) no-repeat 0 0 / 100%;
+    width: 1.37em;
+    height: 1em;
+    display: inline-block;
+    margin: -0.25em 0.4em 0 -0.3em;
 }
 
 [href][target="_blank"][href^="https://drive.google.com"]:before {
@@ -73,7 +88,7 @@ table > tr > td,
     width: 1.2em;
     height: 1.07em;
     display: inline-block;
-    margin: 0 0.2em 0 0;
+    margin: 0 0.3em 0 0;
 }
 
 [href][target="_blank"][href^="https://t.me/"]:before {
@@ -83,16 +98,17 @@ table > tr > td,
     width: 1.2em;
     height: 1.2em;
     display: inline-block;
-    margin: 0 0.15em 0 0;
+    margin: -0.25em 0.15em 0 0;
 }
 
 [href][target="_blank"][href^="https://invite.viber.com/"]:before {
     content: " ";
     opacity: .4;
     background: #0000 url(../images/icons/svg/viber_logo.svg) no-repeat 0 0 / 100%;
-    width: 1.2em;
-    height: 1.2em;
+    width: 1.30em;
+    height: 1.35em;
     display: inline-block;
+    margin: -0.25em 0.15em 0 -0.08em;
 }
 
 [href][target="_blank"]:hover:after,
@@ -101,7 +117,10 @@ table > tr > td,
 [href][target="_blank"][href$=".doc"]:hover:before,
 [href][target="_blank"][href^="https://drive.google.com"]:hover:before,
 [href][target="_blank"][href^="https://t.me/"]:hover:before,
-[href][target="_blank"][href^="https://invite.viber.com/"]:hover:before {
+[href][target="_blank"][href^="https://invite.viber.com/"]:hover:before,
+[href][target="_blank"][href$=".png"]:hover:before,
+[href][target="_blank"][href$=".jpg"]:hover:before,
+[href][target="_blank"][href$=".jpeg"]:hover:before {
     opacity: 1;
 }
 
