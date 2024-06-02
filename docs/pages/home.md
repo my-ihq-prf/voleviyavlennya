@@ -50,6 +50,24 @@ title:  "Welcome to the "Declaration Of Will"!"
     /* color: #707981; */
 ">"Добрий день"</font> <font>.</font></span></p>
 
+<p style="
+    padding: 0 0 0 4.4em;
+    margin: -0.8em 0 1em 0;
+    font-size: 0.9em;
+">3x ... - Якщо після <strong>3-го</strong> вашого <strong>запитання</strong> ви не чуєте відповіді то <strong>заявити</strong> що
+                    <em>"
+                      <strong>ваше мовчання означає згоду</strong> на визнання вами моєї <a href="/pages/guide/zagalna-harakteristika-pravosubyektnosti.html" target="_blank">«правосуб'єктності»</a>
+                      "
+                    </em>
+                  , т.е
+                    <font style="
+                      color: #707981;
+                      font-style: italic;
+                    ">
+                      конклюдентні дії ...
+                    </font>
+                  .</p>
+
 <p style="display: inline-flex;line-height: 1.3em;margin-top: .5em;"><font style="font-size: 1.5em;padding: 0 .2em 0.4em .2em;transform: rotate(180deg);display: inline-block;height: .5em;">👀</font>
 
 <span style="
