@@ -130,7 +130,6 @@ a[href][target="_blank"][title]:after {
 
 a[href][target="_blank"],
 .link_underline_2 {
-    display: inline-flex;
     text-shadow: 0 0 .1px black, 0 0 .2px black, 0 0 .3px black, 0 0 .4px black;
 }
 
