@@ -14,8 +14,20 @@ title:  "Welcome to the "Declaration Of Will"!"
 <span style="padding: 0;position: relative;bottom: 0.08em;"><font>вияв волі людини</font></span>
 <font> )</font>
 </span>
-</span>
-</p>
+ <a href="https://www.olx.ua/d/uk/obyavlenie/blank-voleviyavlennya-lyudini-IDWrtLJ.html" target="_blank">
+<font style="
+padding: 0 0 1em 0;
+">
+<i style="    background: #0000 url(./assets/images/icons/svg/anm/anmShoppingCart.svg) 0 0 / cover no-repeat;
+    cursor: pointer;
+    display: inline-block;
+    height: 2.4em;
+    width: 2em;
+    margin: -.2em 0 -.2em 1em;
+    position: relative;
+    top: 0.3em;
+}"></i></font></a></span></p>
+
 <p style="display: inline-flex;line-height: 1.3em;margin-top: .5em;"><font style="font-size: 1.5em;padding: 0 .2em 0.4em .2em;transform: rotate(180deg);display: inline-block;height: .5em;">👀</font>
 
 <span style="
