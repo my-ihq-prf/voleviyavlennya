@@ -87,6 +87,12 @@ padding: 0 0 1em 0;
 ">Якщо <font style="
 ">не визнають вашу <a href="{{site.github.url}}/pages/guide/zagalna-harakteristika-pravosubyektnosti.html" target="_blank">«правосуб'єктність»</a></font>, то та посадова особа - <strong> чинить вам юридичну смерть</strong>❗ А <strong>юридична смерть прирівнюється по відповідальності до фізичної смерті</strong>. Це все одно, що <strong>вбити фізично людину</strong></span></p>
 
+<p style="display: inline-flex;line-height: 1.3em;margin-top: .5em;"><font style="font-size: 1.5em;padding: 0 .2em 0.4em .2em;transform: rotate(180deg);display: inline-block;height: .5em;">👀</font>
+
+<span style="
+    font-size: large;
+">Саме <strong>ваша мовчазна згода</strong> з усім, що вам пропонують і дає їм (влади та її органам) можливість для <strong>узаконення всіх їхніх злочинів</strong> спрямованих проти <strong>Вас</strong></span></p>
+
 #### - [Declaration Of Will](https://en.wiktionary.org/wiki/declaration_of_will) : ([law](https://en.wiktionary.org/wiki/law#English "law")) A [private](https://en.wiktionary.org/wiki/private#English "private") [outward](https://en.wiktionary.org/wiki/outward#English "outward") [manifestation](https://en.wiktionary.org/wiki/manifestation#English "manifestation") of [intention](https://en.wiktionary.org/wiki/intention#English "intention") which is [directly](https://en.wiktionary.org/wiki/direct#English "direct") [aimed](https://en.wiktionary.org/wiki/aim#English "aim") at bringing about a [legal effect](https://en.wiktionary.org/wiki/legal_effect#English "legal effect").
 
 <details style="position: relative;left: -1.5em;"  open>
