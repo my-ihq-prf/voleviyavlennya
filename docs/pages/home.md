@@ -329,12 +329,7 @@ padding: 0 0 1em 0;
     padding: 0 0 0 .1em;
 ">🤿</font><span style="padding: 0 0 0 .4em;">Віктор Вікарчук</span></summary>
 
-<span><a href="{{site.github.url}}/pages/you_tube/viktor-vikarchuk/18-travnya-kinec-svituю.html" target="_block"><font style="
-    font-size: 2em;
-    position: relative;
-    top: .14em;
-    padding: 0 .2em 0 0;
-">☞</font>18 ТРАВНЯ - "kiнець світу"!?</a></span>
+{% include_relative you_tube/viktor-vikarchuk/index.md %}
 
 </details>
 
