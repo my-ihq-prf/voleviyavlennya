@@ -1,4 +1,4 @@
-## Не можуть ЗАТРИМУВАТИ! ВАЖЛИВИЙ СЕКРЕТ, коли вас захоче затримати ТЦК чи поліція по повістці ПАСТКА!
+## Як прийти в ТЦК і не загинути? Дуже важливі рекомендації адвоката!
 
 <div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/SEQ00_IP0Ro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

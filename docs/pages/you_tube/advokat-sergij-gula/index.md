@@ -1,4 +1,4 @@
-<span><a href="{{site.github.url}}/pages/you_tube/advokat-sergij-gula/yak-prijti-v-tck-i-ne-zaginuti-duzhe-vazhlivi-rekomendaciyi-advokata.html" target="_block"><font role="case" lvl="2"></font>Не можуть ЗАТРИМУВАТИ! ВАЖЛИВИЙ СЕКРЕТ, коли вас захоче затримати ТЦК чи поліція по повістці ПАСТКА!</a></span>
+<span><a href="{{site.github.url}}/pages/you_tube/advokat-sergij-gula/yak-prijti-v-tck-i-ne-zaginuti-duzhe-vazhlivi-rekomendaciyi-advokata.html" target="_block"><font role="case" lvl="2"></font>Як прийти в ТЦК і не загинути? Дуже важливі рекомендації адвоката!</a></span>
 
 <span><a href="{{site.github.url}}/pages/you_tube/advokat-sergij-gula/sensacijno-vas-ne-mozhut-oshtrafuvati-tck-na-17000-25500-shtraf.html" target="_block"><font role="case" lvl="2"></font>Сенсаційно ВАС не можуть оштрафувати ТЦК на 17000 25500 штраф</a></span>
 
