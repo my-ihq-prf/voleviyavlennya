@@ -1,6 +1,6 @@
 ## Не можуть ЗАТРИМУВАТИ! ВАЖЛИВИЙ СЕКРЕТ, коли вас захоче затримати ТЦК чи поліція по повістці ПАСТКА!
 
-<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/ydTx-npkdLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/SEQ00_IP0Ro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Друзі, адвокат Сергій Гуло, оскільки все більше і більш частіше появляються новини про те, що людина пішла в ТЦК, а назад її вже вивезли, чи мертву, чи в лікарню і людина там вже помирає, то було відповідні звернення і прохання. І я розумію, що є ця потреба знати базові речі, щоб все ж таки похід в ТЦК не став трагічним. Важливі базові речі.
 
