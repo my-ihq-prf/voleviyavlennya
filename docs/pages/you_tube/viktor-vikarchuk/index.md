@@ -1,3 +1,10 @@
+<span><a href="{{site.github.url}}/pages/you_tube/viktor-vikarchuk/25000-gr-strah-yakij-skovuye-zdorovij-gluzd.html" target="_block"><font style="
+    font-size: 2em;
+    position: relative;
+    top: .14em;
+    padding: 0 .2em 0 0;
+">☞</font>25000 гр - СТРАХ, який сковує здоровий глузд...</a></span>
+
 <span><a href="{{site.github.url}}/pages/you_tube/viktor-vikarchuk/gipnoz-chi-zaturkanist-ukrayinciv-shukajte-prichinu-a-ne-naslidok-u-vidnosinah-z-zhulikami.html" target="_block"><font style="
     font-size: 2em;
     position: relative;
