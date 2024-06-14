@@ -2,6 +2,8 @@
 
 <div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/649MyVPQxqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+[Самое известное дело Зеньковского суда Полтавской области № 530/337/23](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa04xZ0pUNklWTFFSbFJOVHR4bVQ1UVVSMUFVZ3xBQ3Jtc0tuVGx6Q0RxUko0WXB2Vnk3VXRsd3dfcW9FVG0tS3hLa0JXc0Y3TGIwcUd4cWNrdDhBeHlnS3ZvQlBhZFBGUGludHRQM0tNc0pfcEtGQi1wXzZRQlM0Vm5RM2FEajlEYmpfa0V0VWpvUmx3UmNXTDlSOA&q=https%3A%2F%2Freyestr.court.gov.ua%2FReview%2F115564163&v=649MyVPQxqc)
+
 Привет, дорогие друзья! Помните самое громкое дело из всех возможных поуклонистам, которое обсуждало без преувеличения вся Украина и которому было наибольшее внимание со стороны правозащитников, юристов и адвокатов? Дело, в котором судья на 17 листах расписал о незаконности мобилизации, о нелегитимности ТЦК кабинета министров Украины, что все постановления и указы не имеют юридической силы и т.д. И как итог, оправдательный приговор в отношении обвиняемого по 336-й статье Уголовного кодекса Украины «Уклонение от воинской службы» или «Уклонение от мобилизации». Так что сегодня говорим о судьбе дела Зеньковского суда Полтавской области и что происходит сейчас с этим делом и что изменилось почти за год времени.
 
 Делюсь информацией, взятой из открытых источников. И что у нас является открытым источником? Правильно. Реестр судебных решений.
