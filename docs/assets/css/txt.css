@@ -4,3 +4,40 @@
     font-weight: 500;
     text-shadow: 0 0 .1px #f80000, 0 0 .2px #f80000, 0 0 .3px #f80000, 0 0 .4px #f80000, 0 0 .5px #f80000, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #01187B;
 }
+
+.r-look-at:before {
+    font-size: 1.5em;
+    padding: 0 .2em 1.4em .2em;
+    transform: rotate(180deg);
+    display: inline-block;
+    height: .1em;
+    content: "👀";
+}
+
+.hidden {
+    display: none
+}
+
+@media (max-width: 544px) {
+    .sm {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    .md {
+        display: block;
+    }
+}
+
+@media (min-width: 544px) and (max-width: 768px) {
+    .only-md {
+        display: block;
+    }
+}
+
+@media (min-width: 768px) {
+    .lg {
+        display: block;
+    }
+}
