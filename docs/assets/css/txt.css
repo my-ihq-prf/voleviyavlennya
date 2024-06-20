@@ -24,12 +24,6 @@
     }
 }
 
-@media (max-width: 768px) {
-    .md {
-        display: block;
-    }
-}
-
 @media (min-width: 544px) and (max-width: 768px) {
     .only-md {
         display: block;
@@ -39,5 +33,15 @@
 @media (min-width: 768px) {
     .lg {
         display: block;
+    }
+}
+
+@media (min-width: 768px) {
+    .flex.md {}
+}
+
+@media (max-width: 768px) {
+    .flex.md {
+        flex-direction: column;
     }
 }
