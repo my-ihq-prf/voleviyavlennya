@@ -56,7 +56,7 @@ table > tr > td,
     width: 1.1em;
     height: 1.3em;
     display: inline-block;
-    margin: -0.4em 0.4em 0 0;
+    margin: -0.4em 0.4em 0 0.2em;
 }
 
 [href][target="_blank"][href$=".doc"]:before,
@@ -67,7 +67,7 @@ table > tr > td,
     width: 1.07em;
     height: 1.35em;
     display: inline-block;
-    margin: -0.4em 0.4em 0 0;
+    margin: -0.4em 0.4em 0 0.2em;
 }
 
 [href][target="_blank"][href$=".png"]:before,
@@ -79,7 +79,7 @@ table > tr > td,
     width: 1.37em;
     height: 1em;
     display: inline-block;
-    margin: -0.25em 0.4em 0 -0.3em;
+    margin: -0.25em 0.4em 0 0.2em;
 }
 
 [href][target="_blank"][href^="https://drive.google.com"]:before {
@@ -89,7 +89,7 @@ table > tr > td,
     width: 1.2em;
     height: 1.07em;
     display: inline-block;
-    margin: 0 0.3em 0 0;
+    margin: 0 0.3em 0 0.2em;
 }
 
 [href][target="_blank"][href^="https://t.me/"]:before {
@@ -99,7 +99,7 @@ table > tr > td,
     width: 1.2em;
     height: 1.2em;
     display: inline-block;
-    margin: -0.25em 0.15em 0 0;
+    margin: -0.25em 0.15em 0 0.2em;
 }
 
 [href][target="_blank"][href^="https://invite.viber.com/"]:before {
@@ -109,7 +109,7 @@ table > tr > td,
     width: 1.30em;
     height: 1.35em;
     display: inline-block;
-    margin: -0.25em 0.15em 0 -0.08em;
+    margin: -0.25em 0.15em 0 0.2em;
 }
 
 [href][target="_blank"]:hover:after,

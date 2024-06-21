@@ -10,6 +10,8 @@
 
 #### <span><font style="font-size:2.0em;padding:0 .3em 0 .1em;">🗎</font>Всі документи в одному файлі: [AllInOne:05_13_2024 | pdf]({{site.github.url}}/pages/files/docs/vsi-dokumenti-v-odnomu-fajli.pdf)</span>
 
+#### <span><font style="font-size:2.0em;padding:0 .3em 0 .1em;">⛑️</font>[Пам'ятка щодо спілкування з ТЦК та СП і поліцією]({{site.github.url}}/pages/guide/pamyatka-shodo-spilkuvannya-z-tck-ta-sp-i-policiyeyu-3633-ix/index.html) [ правки у зв'язку з прийняттям ["Закону про мобілізацію" №3633-IX](https://zakon.rada.gov.ua/laws/show/3633-20#top)]</span>
+
 #### <span><font style="font-size:2.0em;padding:0 .3em 0 .1em;">⛑️</font>[Шпаргалка 2,0 | pdf]({{site.github.url}}/pages/files/docs/shpargalka-20.pdf)</span>
 
 #### <span><font style="font-size:2.0em;padding:0 .3em 0 .1em;">⛑️</font>[Важливе оновлення по темі "Мобілізація" | 05.04.2023, 21:40]({{site.github.url}}/pages/app/rozgolos/perevirka-dokumentiv-pid-chas-voyennogo-stanu.html)</span>
