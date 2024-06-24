@@ -45,3 +45,41 @@
         flex-direction: column;
     }
 }
+
+.markdown-body .text-red {
+    color: #f80000;
+}
+
+.markdown-body .text-red-bold {
+    color: #f80000;
+    text-shadow: 0 0 .1px #f80000, 0 0 .2px #f80000, 0 0 .3px #f80000, 0 0 .4px #f80000, 0 0 .5px #f80000, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #01187B;
+}
+
+.markdown-body .text-pinkish-purple {
+    color: #9932CC;
+}
+
+.markdown-body .text-purple {
+    color: #734F96;
+}
+
+.markdown-body .bg-red {
+    background-color: #f80000;
+    text-shadow: 0 0 .1px #f80000, 0 0 .2px #f80000, 0 0 .3px #f80000, 0 0 .4px #f80000, 0 0 .5px #f80000, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #01187B;
+}
+
+.markdown-body .bg-cyan {
+    background-color: #0BF9EA;
+}
+
+.markdown-body .bg-yellow {
+    background-color: #FFFF00;
+}
+
+.markdown-body .bg-yellowish-green {
+    background-color: #40FD14;
+}
+
+.markdown-body .bg-pinkish-purple {
+    background-color: #734F96;
+}
