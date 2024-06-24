@@ -76,8 +76,12 @@
     background-color: #FFFF00;
 }
 
-.markdown-body .bg-yellowish-green {
-    background-color: #40FD14;
+.markdown-body .text-yellowish-green-10 {
+    color: #1D7A07;
+}
+
+.markdown-body .bg-yellowish-green-sh {
+    text-shadow: 0 0 .1px #40FD14, 0 0 .2px #40FD14, 0 0 .3px #40FD14, 0 0 .4px #40FD14, 0 0 .5px #40FD14, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876;
 }
 
 .markdown-body .bg-pinkish-purple {
