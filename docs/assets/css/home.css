@@ -22,6 +22,24 @@ table > tr > td,
     border: none;
 }
 
+.markdown-body [data-target-url]:hover {
+    cursor: pointer;
+}
+
+.markdown-body [data-target-url]:hover :nth-child(1):before {
+    content: " ";
+    background: #0000001f;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+}
+
+.markdown-body span a[p-before^="-"] {
+    padding: 0.5em 0 0 0.2em;
+    display: inline-block;
+}
+
 .markdown-body a[href^="https://www.youtube.com/"]:after,
 .markdown-body a[href^="https://youtube.com/"]:after,
 [role="details-tt-you-tube"]:after {
@@ -151,7 +169,8 @@ a[href][target="_blank"]:hover,
 .markdown-body p,
 .markdown-body pre,
 .markdown-body table,
-.markdown-body ul {
+.markdown-body ul,
+[data-strong] {
     text-shadow:
         0 0 .1px #011876,
         0 0 .2px #011876,

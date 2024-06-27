@@ -170,6 +170,21 @@
                 _el.setAttribute('target', '_blank')
             }
         })
+        Array.prototype.slice.call(document.querySelectorAll('[data-target-url]')).forEach(_el => {
+            if (_el.dataset.targetUrl) {
+                _el.addEventListener('click', function () {
+                    let a = document.createElement("a")
+                    a.setAttribute("style", "display: none")
+                    a.href = _el.dataset.targetUrl
+                    a.target = "_blank"
+                    a.click()
+                    document.body.appendChild(a)
+                    a.remove()
+                })
+            }
+
+        })
+
     </script>
 </body>
 

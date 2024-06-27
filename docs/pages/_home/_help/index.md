@@ -1,3 +1,13 @@
+<div class="row" style="
+    flex-wrap: nowrap !important;
+"><div style="
+    max-width: 4.0em;
+"><span style="background:url({{site.github.url}}/pages/files/docs/home/help/0.svg) no-repeat 0 0 / cover;height: 2.7em;width: 4.0em;display: inline-block;position: relative;/* top: .2em; *//* left: 0.2em; */"></span></div>
+
+<div class="col pl-3 wrap" style="
+    height: 100%;
+"><a href="{{site.github.url}}/pages/guide/golovna-meta-tak-zvanoyi-ukrayinskoyi-vladi-i-sho-zaraz-nam-z-cim-robiti/index.html" target="_blank">Як протидіяти системі корпоративного права, чи так званої "української влади" яка працює на знищення українського народу та нації, чи залишать в 2025 році до 4 мільйонів людей в Україні?</a></div></div>
+
 <h4 id="вся-необхідна-інформація-про-волевиявлення-людини-"><em>вся необхідна інформація про Волевиявлення <span style="color: #f80000;">людини</span></em> 👇👇👇</h4>
 
 **Підписуйтесь на наші платформи**:
