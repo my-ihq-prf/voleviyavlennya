@@ -8,6 +8,8 @@
     height: 100%;
 "><a href="{{site.github.url}}/pages/guide/golovna-meta-tak-zvanoyi-ukrayinskoyi-vladi-i-sho-zaraz-nam-z-cim-robiti/index.html" target="_blank">Як протидіяти системі корпоративного права, чи так званої "української влади" яка працює на знищення українського народу та нації, чи залишать в 2025 році до 4 мільйонів людей в Україні?</a></div></div>
 
+#### <span><font style="font-size:2.0em;padding:0 .3em 0 .1em;">🗎</font>[ПОКРОКОВА СИСТЕМА ДЛЯ ЗАХИСТУ ПРАВ ЛЮДИНИ](https://t.me/znaj_pravdu)</span>
+
 <h4 id="вся-необхідна-інформація-про-волевиявлення-людини-"><em>вся необхідна інформація про Волевиявлення <span style="color: #f80000;">людини</span></em> 👇👇👇</h4>
 
 **Підписуйтесь на наші платформи**:
