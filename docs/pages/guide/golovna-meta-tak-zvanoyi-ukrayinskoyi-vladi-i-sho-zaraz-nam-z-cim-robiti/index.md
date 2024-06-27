@@ -46,7 +46,7 @@
             target="_blank">Громадянства України Нема</a></span>
 
     <span> - <a p-before="-"
-            href="{{site.github.url}}/pages/guide/golovna-meta-tak-zvanoyi-ukrayinskoyi-vladi-i-sho-zaraz-nam-z-cim-robiti/files/держ органів нема!!!.jpg"
+            href="{{site.github.url}}/pages/guide/golovna-meta-tak-zvanoyi-ukrayinskoyi-vladi-i-sho-zaraz-nam-z-cim-robiti/files/держ органів нема!!!.jpeg"
             target="_blank">Держ Органів Нема</a></span>
 
     <span> - <a p-before="-"
