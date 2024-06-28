@@ -170,13 +170,17 @@ a[href][target="_blank"]:hover,
 .markdown-body pre,
 .markdown-body table,
 .markdown-body ul,
-[data-strong] {
+.markdown-body [data-strong] {
     text-shadow:
         0 0 .1px #011876,
         0 0 .2px #011876,
         0 0 .3px #011876,
         0 0 .4px #011876;
     letter-spacing: .04em;
+}
+
+.markdown-body [data-strong] {
+    font-size: 1.25em;
 }
 
 .hr--i:after {
