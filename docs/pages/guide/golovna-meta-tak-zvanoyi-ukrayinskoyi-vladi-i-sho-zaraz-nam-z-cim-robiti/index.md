@@ -83,6 +83,8 @@ display: inline-block;
 
 </div>
 
+### Текстова версія відео:
+
 ### [Нерухоме майно чи недійсна власність?](neruhome-majno-chi-nedijsna-vlasnist.md)
 
 ### [Чи є спосіб зараз перетинати безперешкодно будь які кордони?, для чого ті тергромади, і як це зробити і хто ж нас врятує?](organ-miscevogo-samovryaduvannya-i-yak-ce-zrobiti.md)

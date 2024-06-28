@@ -27,6 +27,13 @@ title: "Welcome to the "Declaration Of Will"!"
     {% include_relative you_tube/rostislav-shaposhnikov/index.md %}
 
   </details>
+    <details _open>
+
+    <summary>Андрій Нечай</summary>
+
+    {% include_relative you_tube/andrij-nechaj/index.md %}
+
+  </details>
 
   <details>
 
@@ -168,6 +175,7 @@ position: relative;
 top: .0em;
 padding: 0 0 0 .1em;
 ">🤿</font><span style="padding: 0 0 0 .4em;">Віктор Вікарчук</span>
+
 </summary>
 
     {% include_relative you_tube/viktor-vikarchuk/index.md %}
