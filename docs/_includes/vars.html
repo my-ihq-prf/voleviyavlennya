@@ -1,0 +1,30 @@
+{%- capture title -%}
+{% if page.title %}{{ page.title }}{% elsif site.meta.title %}{{ site.meta.title }}{% if site.baseurl | remove: "/" %}{{
+site.baseurl | remove: "/" }}{% endif %}{% endif %}
+{%- endcapture -%}
+
+{%- capture fullUrl -%}{{ site.github.url }}{{page.url}}{%- endcapture -%}
+{%- capture repoUrl -%}{{ site.github.repository_url }}/blob/main/docs/{{page.path}}{%- endcapture -%}
+{%- capture historyUrl -%}{{ site.github.repository_url }}/commits/main/docs/{{page.path}}{%- endcapture -%}
+{%- capture ownerUrl -%}{{ site.github.owner_url }}{%- endcapture -%}
+{%- capture issuesUrl -%}{{ site.github.issues_url }}{%- endcapture -%}
+{%- capture compiled -%}{{ site.time | date: "%Y-%m-%d %H:%M:%S" }}{%- endcapture -%}
+{%- capture ver -%}{{ site.time | date: "%s" | modulo: 1000 }}{%- endcapture -%}
+
+{%- if include.title -%}
+{{- title -}}
+{%- elsif include.fullUrl -%}
+{{- fullUrl -}}
+{%- elsif include.repoUrl -%}
+{{- repoUrl -}}
+{% elsif include.historyUrl %}
+{{- historyUrl -}}
+{% elsif include.ownerUrl %}
+{{- ownerUrl -}}
+{% elsif include.issuesUrl %}
+{{- issuesUrl -}}
+{% elsif include.compiled %}
+{{- compiled -}}
+{% elsif include.ver %}
+{{- ver -}}
+{%- endif -%}

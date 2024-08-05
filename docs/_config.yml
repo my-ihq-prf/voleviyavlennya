@@ -1,0 +1,45 @@
+# Config file for Jekyll & GitHub Pages
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Expect a warning when running 'bundle exec jekyll serve':
+#   GitHub Metadata: No GitHub API authentication could be found.
+#   Some fields may be missing or have incorrect data.
+# This is only due to the GitHub API token not being needed for local runs,
+# so it should cause no problem. This is requested by jekyll-github-metadata.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# Change the directory where Jekyll will read files
+# source:
+
+# Change the directory where Jekyll will write files
+# destination:
+
+# repository: my-ihq-prf/temp
+
+description: >- # this means to ignore newlines until next element
+  The Brief Descriptions of My Proficiency Level.
+
+include: [.htaccess]
+
+encoding: UTF-8
+
+meta:
+  title: "Волевиявлення людини | Voleviyavlennya"
+  keywords: "ТЦК,волевиявлення,адвокат,людина,влада,злочин,корупція,права,суд,конституція,ЗСУ,війна,Україна,мобілізація,Волевиявлення людини"
+  description: "Волевиявлення громадян в контексті мобілізації, війни, захисту конституції та боротьбі з злочинністю в Україні."
+  locale: "uk_UA"
+  icon_svg: "https://my-ihq-prf.github.io/voleviyavlennya/assets/images/favicon.svg"
+  icon_png: "https://my-ihq-prf.github.io/voleviyavlennya/assets/images/favicon.svg"
+  image: "https://my-ihq-prf.github.io/voleviyavlennya/assets/images/meta_img.jpg"

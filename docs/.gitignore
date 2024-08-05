@@ -1,0 +1,16 @@
+### Format1  ###
+# .bin/
+
+### Format2  ###
+# **/.bin/**
+
+### Format3  ###
+**/Gemfile
+**/Gemfile.lock
+
+_config_dev.yml
+
+**/resume.AndriiAntoniuk.29.May.2022.md
+**/_site/
+**/.liquidrc
+**/index_000.md
