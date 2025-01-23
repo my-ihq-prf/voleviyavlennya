@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "off:prj": ".\\..\\..\\.bin\\tsk.bat",
+        "off:rj2": "cd /d .\\..\\.. && start CMD /c .\\.bin\\tsk.bat",
+        "serve": "cd /d .\\.. && bundle exec jekyll serve --config _config_dev.yml",
+        "install": "cd /d .\\.. && bundle install",
+        "off:deploy": ".\\..\\..\\.bin\\deploy\\index.cmd"
+    }
+}

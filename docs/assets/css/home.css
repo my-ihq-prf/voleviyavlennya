@@ -1,0 +1,289 @@
+@import url("responsive-video.css");
+@import url("txt.css");
+@import url("md.css");
+
+.header-cap {
+    margin: unset;
+    padding: 1.4em 2.6em 0 0;
+}
+
+.header-cap > .row.nowrap {
+    display: flex;
+    justify-content: center;
+}
+
+table,
+table > tbody,
+table > tr,
+table > tbody > tr,
+table > tr > td,
+.markdown-body table > tr,
+.markdown-body table > tbody > tr,
+.markdown-body table > tbody > tr > td {
+    border: none;
+}
+
+.markdown-body [data-target-url]:hover {
+    cursor: pointer;
+}
+
+.markdown-body [data-target-url]:hover :nth-child(1):before {
+    content: " ";
+    background: #0000001f;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+}
+
+.markdown-body span a[p-before^="-"] {
+    padding: 0.5em 0 0 0.2em;
+    display: inline-block;
+}
+
+.markdown-body a[href^="https://www.youtube.com/"]:after,
+.markdown-body a[href^="https://youtube.com/"]:after,
+[role="details-tt-you-tube"]:after {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/Logo_of_YouTube.svg) 0 0 / 100% no-repeat;
+    display: inline-block;
+    width: 2.2em;
+    height: 1.1em;
+    margin: 0 0.1em 0 0.2em;
+}
+
+.markdown-body a[href^="https://www.youtube.com/"]:hover:after,
+.markdown-body a[href^="https://youtube.com/"]:hover:after,
+[role="details-tt-you-tube"]:after {
+    opacity: 1;
+}
+
+[href][target="_blank"]:after {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/read-more_link2.svg) .25em 0 / 67% no-repeat;
+    width: 1.5em;
+    height: 1em;
+    display: inline-block;
+}
+
+[href][target="_blank"][href$=".pdf"]:before {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/file_pdf.svg) no-repeat .0em 0 / 100%;
+    width: 1.1em;
+    height: 1.3em;
+    display: inline-block;
+    margin: -0.4em 0.4em 0 0.2em;
+}
+
+[href][target="_blank"][href$=".doc"]:before,
+[href][target="_blank"][href$=".docx"]:before {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/file_doc.svg) no-repeat .05em 0 / 100%;
+    width: 1.07em;
+    height: 1.35em;
+    display: inline-block;
+    margin: -0.4em 0.4em 0 0.2em;
+}
+
+[href][target="_blank"][href$=".png"]:before,
+[href][target="_blank"][href$=".jpg"]:before,
+[href][target="_blank"][href$=".jpeg"]:before {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/file_img.svg) no-repeat 0 0 / 100%;
+    width: 1.37em;
+    height: 1em;
+    display: inline-block;
+    margin: -0.25em 0.4em 0 0.2em;
+}
+
+[href][target="_blank"][href^="https://drive.google.com"]:before {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/google-drive.svg) no-repeat 0 0 / 100%;
+    width: 1.2em;
+    height: 1.07em;
+    display: inline-block;
+    margin: 0 0.3em 0 0.2em;
+}
+
+[href][target="_blank"][href^="https://t.me/"]:before {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/telegram_logo.svg) no-repeat 0 0 / 100%;
+    width: 1.2em;
+    height: 1.2em;
+    display: inline-block;
+    margin: -0.25em 0.15em 0 0.2em;
+}
+
+[href][target="_blank"][href^="https://invite.viber.com/"]:before {
+    content: " ";
+    opacity: .4;
+    background: #0000 url(../images/icons/svg/viber_logo.svg) no-repeat 0 0 / 100%;
+    width: 1.30em;
+    height: 1.35em;
+    display: inline-block;
+    margin: -0.25em 0.15em 0 0.2em;
+}
+
+[href][target="_blank"]:hover:after,
+[href][target="_blank"][href$=".pdf"]:hover:before,
+[href][target="_blank"][href$=".docx"]:hover:before,
+[href][target="_blank"][href$=".doc"]:hover:before,
+[href][target="_blank"][href^="https://drive.google.com"]:hover:before,
+[href][target="_blank"][href^="https://t.me/"]:hover:before,
+[href][target="_blank"][href^="https://invite.viber.com/"]:hover:before,
+[href][target="_blank"][href$=".png"]:hover:before,
+[href][target="_blank"][href$=".jpg"]:hover:before,
+[href][target="_blank"][href$=".jpeg"]:hover:before {
+    opacity: 1;
+}
+
+a[href][target="_blank"][title]:after {
+    content: unset;
+}
+
+a[href][target="_blank"],
+.link_underline_2 {
+    text-shadow: 0 0 .1px black, 0 0 .2px black, 0 0 .3px black, 0 0 .4px black;
+}
+
+a[href][target="_blank"][title]:after {
+    text-shadow: unset;
+}
+
+a[href][target="_blank"]:hover,
+.link_underline_2:hover {
+    text-decoration: none;
+    border-bottom: 1.4px solid currentColor;
+    margin-bottom: -1px;
+}
+
+.markdown-body blockquote,
+.markdown-body dl,
+.markdown-body ol,
+.markdown-body p,
+.markdown-body pre,
+.markdown-body table,
+.markdown-body ul,
+.markdown-body [data-strong] {
+    text-shadow:
+        0 0 .1px #011876,
+        0 0 .2px #011876,
+        0 0 .3px #011876,
+        0 0 .4px #011876;
+    letter-spacing: .04em;
+}
+
+.markdown-body [data-strong] {
+    font-size: 1.25em;
+}
+
+.hr--i:after {
+    -webkit-mask-size: 85% 170%;
+    mask-size: 85% 170%;
+    padding-top: 6em;
+}
+
+@media screen and (max-width: 600px) {
+    .header-cap {
+        padding: 3.4em 2.6em 1.4em 0;
+    }
+
+    .header-cap .row :nth-child(2) {
+        font-size: 160%;
+        line-height: 1.3em;
+    }
+
+    .header-cap .row :nth-child(2):after {
+        font-size: 115%;
+        line-height: 2.0em;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 720px) {
+    .header-cap {
+        padding: 3.4em 2.6em 1.4em 0;
+    }
+
+    .header-cap .row :nth-child(2) {
+        font-size: 130%;
+        line-height: 1.3em;
+    }
+
+    .header-cap .row :nth-child(2):after {
+        font-size: 110%;
+        line-height: 1.3em;
+    }
+}
+
+@media screen and (min-width: 720px) and (max-width: 1100px) {
+    .header-cap {
+        padding: 3.4em 2.6em 1.4em 0;
+    }
+
+    .header-cap .row :nth-child(2) {
+        font-size: 120%;
+        line-height: 1.3em;
+    }
+
+    .header-cap .row :nth-child(2):after {
+        font-size: 100%;
+        line-height: 1.3em;
+    }
+}
+
+details > summary {
+    padding: 0 0 0 1.7em;
+}
+
+details > span {
+	display: flex;
+    padding: 0 0 0 2.7em;
+}
+
+details > details > span {
+	display: flex;
+    padding: 0 0 .2em 3.3em;
+}
+
+details > details > span:nth-child(2) {
+    padding: .2em 0 0 3.3em;
+    min-height: 1.9em;
+}
+
+details {
+    display: inline;
+}
+
+details > details {
+    padding: 0 0 .4em 1.1em;
+	position: relative;
+    left: 1em;
+}
+
+details > summary:before {
+    content: " ";
+    padding: 0 0 0 .2em;
+}
+
+details > details > summary[role="lawyer"]:before {
+    content: "🕵️";
+    padding: 0 .1em 0 .3em;
+    font-size: 1.1em;
+    position: relative;
+    top: -.14em;
+}
+
+details > details font[role="case"][lvl="2"]:before {
+    content: "🟠";
+    padding: 0 .3em 0 .1em;
+    font-size: 0.5em;
+    position: relative;
+    top: -.3em;
+}

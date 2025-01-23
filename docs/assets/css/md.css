@@ -1,0 +1,112 @@
+@import url("../fonts/microsoft/docons/font.css");
+
+.markdown-body .docon {
+    font-family: docons;
+    font-size: inherit;
+    speak: none;
+    font-variant: normal;
+    text-transform: none;
+    text-align: center;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    display: inline-block;
+}
+
+.markdown-body > .heading-wrapper {
+    position: relative;
+}
+
+.markdown-body > .heading-wrapper > .anchor-link,
+.markdown-body > .heading-wrapper > .anchor-link::before {
+    text-shadow: unset;
+}
+
+.markdown-body > .heading-wrapper > .anchor-link {
+    font-size: 1rem;
+    transition: opacity .1s linear;
+    position: absolute;
+    cursor: pointer;
+}
+
+.markdown-body > .heading-wrapper > .anchor-link:hover {
+    color: #0366d6;
+    text-decoration: none;
+    border: unset;
+}
+
+.markdown-body > .heading-wrapper[data-heading-level=h3] > .anchor-link {
+    inset-block-start: 0.7rem;
+}
+
+.markdown-body > .heading-wrapper:not(:hover) > .anchor-link.docon {
+    font-family: 'docons';
+    font-size: inherit;
+    speak: none;
+    display: inline-block;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: center;
+    direction: ltr;
+    line-height: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.markdown-body > .heading-wrapper > .anchor-link.docon.docon-link:before {
+    content: "\E71B";
+    box-sizing: inherit;
+}
+
+.markdown-body > .heading-wrapper > .anchor-link.docon.docon-link:after {
+    content: unset;
+}
+
+.markdown-body > .heading-wrapper:not(:hover) > .anchor-link {
+    width: .75rem;
+    font-size: 1rem;
+    transition: opacity .1s linear;
+    position: absolute;
+    inset-inline-start: -.9375rem;
+    transform: translateY(-50%)scale(.75);
+}
+
+.markdown-body > .heading-wrapper:not(:hover) > .anchor-link:not(:focus-visible) {
+    clip: rect(1px, 1px, 1px, 1px);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    width: 1px;
+    word-wrap: normal;
+    opacity: 0;
+    border: 0;
+    margin: -1px;
+    padding: 0;
+    position: absolute;
+    overflow: hidden;
+    inset-block-start: 1.38125rem;
+}
+
+.markdown-body > .heading-wrapper h3 {
+    margin-inline-start: -.9375rem;
+    padding-inline-start: .9375rem;
+}
+
+@media screen and (min-width: 768px),
+print {
+    .markdown-body > .heading-wrapper > .anchor-link {
+        width: 1.5rem;
+        inset-inline-start: -1.875rem;
+        transform: translateY(-50%)scale(1);
+    }
+
+    .markdown-body > .heading-wrapper h3 {
+        margin-inline-start: -1.875rem;
+        padding-inline-start: 1.875rem;
+    }
+}

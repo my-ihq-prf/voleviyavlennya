@@ -1,0 +1,197 @@
+.markdown-body p.t4 {
+    color: #f80000;
+    font-size: larger;
+    font-weight: 500;
+    text-shadow: 0 0 .1px #f80000, 0 0 .2px #f80000, 0 0 .3px #f80000, 0 0 .4px #f80000, 0 0 .5px #f80000, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #01187B;
+}
+
+.r-look-at:before {
+    font-size: 1.5em;
+    padding: 0 .2em 1.4em .2em;
+    transform: rotate(180deg);
+    display: inline-block;
+    height: .1em;
+    content: "👀";
+}
+
+.hidden {
+    display: none
+}
+
+@media (max-width: 544px) {
+    .sm {
+        display: block;
+    }
+}
+
+@media (min-width: 544px) and (max-width: 768px) {
+    .only-md {
+        display: block;
+    }
+}
+
+@media (min-width: 768px) {
+    .lg {
+        display: block;
+    }
+}
+
+@media (min-width: 768px) {
+    .flex.md {}
+}
+
+@media (max-width: 768px) {
+    .flex.md {
+        flex-direction: column;
+    }
+}
+
+.markdown-body .center {
+    text-align: center;
+    display: block;
+}
+
+.markdown-body .ls-1 {
+    letter-spacing: 0.12em;
+}
+
+.markdown-body .ls-2 {
+    letter-spacing: 0.2em;
+}
+
+.markdown-body .ls-5 {
+    letter-spacing: 0.5em;
+}
+
+.markdown-body .text-red {
+    color: #f80000;
+}
+
+.markdown-body .text-red-bold {
+    color: #f80000;
+    text-shadow: 0 0 .1px #f80000, 0 0 .2px #f80000, 0 0 .3px #f80000, 0 0 .4px #f80000, 0 0 .5px #f80000, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #01187B;
+}
+
+.markdown-body .text-pinkish-purple {
+    color: #9932CC;
+}
+
+.markdown-body .text-purple {
+    color: #734F96;
+}
+
+.markdown-body .bg-red {
+    background-color: #f80000;
+    text-shadow: 0 0 .1px #f80000, 0 0 .2px #f80000, 0 0 .3px #f80000, 0 0 .4px #f80000, 0 0 .5px #f80000, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #011876, 0 0 .9px #01187B;
+}
+
+.markdown-body .bg-cyan {
+    background-color: #0BF9EA;
+}
+
+.markdown-body .bg-yellow {
+    background-color: #FFFF00;
+}
+
+.markdown-body .text-yellowish-green-10 {
+    color: #1D7A07;
+}
+
+.markdown-body .bg-yellowish-green-sh {
+    text-shadow: 0 0 .1px #40FD14, 0 0 .2px #40FD14, 0 0 .3px #40FD14, 0 0 .4px #40FD14, 0 0 .5px #40FD14, 0 0 .6px #fff, 0 0 .7px #fff, 0 0 .7px #FFF, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .7px #fff, 0 0 .8px #fff, 0 0 .9px #011876, 0 0 .9px #011876;
+}
+
+.markdown-body .bg-pinkish-purple {
+    background-color: #734F96;
+}
+
+.markdown-body .bg-text-rebecca-purple-dodie-yellow {
+    color: #840600;
+    text-shadow: 0 0 .1px #840600, 0 0 .3px #840600, 0 0 .6px #840600, 0 0 .8px #840600, 0 0 1.0px #840600, 0 0 1.1px #fef85c, 0 0 1.2px #fef85c, 0 0 1.3px #fef85c, 0 0 1.4px #fef85c;
+}
+
+.markdown-body .low_ukr_code,
+.markdown-body .low_ukr_code_2,
+.markdown-body .low_ukr_code_3 {
+    font-weight: normal;
+    font-style: italic;
+    color: #8c5c63;
+    text-shadow: 0 0 .3px #000, 0 0 .3px #000, 0 0 .3px #000, 0 0 .3px #000;
+    padding: 0 0 0 2em;
+    display: inline-block;
+}
+
+.markdown-body strong.low_ukr_code {
+    font-weight: 600;
+}
+
+.markdown-body .low_ukr_code.skp::before,
+.markdown-body .low_ukr_code_2.skp::before,
+.markdown-body .low_ukr_code_3.skp::before {
+    content: "...";
+    display: inline-block;
+    position: relative;
+    top: -1.6em;
+    left: -1.2em;
+    width: 0;
+    white-space: nowrap;
+    margin: 0.5em 0 -0.7em 0;
+    font-weight: 600;
+    font-size: larger;
+    letter-spacing: 0.13em;
+}
+
+.markdown-body .low_ukr_code strong:nth-child(1) {
+    margin: 0 0 0 -1.7em;
+}
+
+.markdown-body .low_ukr_code_2 {
+    padding: 0 0 0 4em;
+    color: #66528b;
+}
+
+.markdown-body .low_ukr_code_2 strong:nth-child(1) {
+    margin: 0 0 0 -1.7em;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: unset;
+    text-shadow: 0 0 .1px #726c6c, 0 0 .2px #726c6c, 0 0 .3px #726c6c, 0 0 .4px #726c6c, 0 0 .5px #726c6c, 0 0 .6px #726c6c, 0 0 .7px #726c6c, 0 0 .8px #726c6c, 0 0 .9px #726c6c;
+}
+
+.markdown-body .low_ukr_code_3 {
+    padding: 0 0 0 6em;
+    color: #c35abf;
+}
+
+.markdown-body .low_ukr_code_3 strong:nth-child(1) {
+    margin: 0 0 0 -1.7em;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: unset;
+    text-shadow: 0 0 .3px #000, 0 0 .3px #000, 0 0 .3px #000, 0 0 .3px #000;
+}
+
+.markdown-body .bg-text-style_pravozahisnik-dmitro-pavlichenko {
+    color: #31deff;
+    text-shadow: 0 0 .1px #42b9ff, 0 0 .3px #42b9ff, 0 0 .6px #42b9ff, 0 0 .8px #42b9ff, 0 0 1.0px #42b9ff, 0 0 1.1px #42b9ff, 0 0 1.2px #42b9ff, 0 0 1.3px #ec3b4d, 0 0 1.4px #ec3b4d, 0 0 1.5px #ec3b4d, 0 0 1.6px #ec3b4d, 0 0 1.7px #ec3b4d, 0 0 1.8px #ec3b4d, 0 0 1.8px #ec3b4d, 0 0 1.8px #ec3b4d, 0 0 1.8px #ec3b4d;
+    letter-spacing: 0.1em;
+}
+
+.markdown-body .bg-text-style_rivne-prostir_rivne {
+    color: #9b5103;
+    text-shadow: 0 0 .1px #9b5103, 0 0 .3px #9b5103, 0 0 .6px #9b5103, 0 0 .8px #9b5103, 0 0 1.0px #9b5103, 0 0 1.1px #9b5103, 0 0 1.2px #9b5103, 0 0 1.3px #9b5103, 0 0 1.4px #d5b85a, 0 0 1.5px #d5b85a, 0 0 1.6px #d5b85a, 0 0 1.7px #d5b85a, 0 0 1.8px #d5b85a, 0 0 1.8px #d5b85a, 0 0 1.8px #d5b85a, 0 0 1.8px #d5b85a;
+    letter-spacing: 0.16em;
+}
+
+.markdown-body .bg-text-style_rivne-prostir_rivne_dash {
+    color: #d7ba85;
+    text-shadow: 0 0 0.5px #d7ba85, 0 0 0.5px #d7ba85, 0 0 0.5px #d7ba85, 0 0 0.5px #d7ba85, 0 0 1.0px #e43133, 0 0 1.0px #e43133, 0 0 1.0px #e43133, 0 0 1.0px #e43133;
+    font-weight: 600;
+    letter-spacing: unset;
+}
+
+.markdown-body .bg-text-style_rivne-prostir-zhivih-lyudej {
+    color: #4c7f6c;
+    text-shadow: 0 0 .1px #4c7f6c, 0 0 .3px #324c43, 0 0 .6px #324c43, 0 0 .8px #324c43, 0 0 1.0px #4c7f6c, 0 0 1.1px #324c43, 0 0 1.2px #d5b85a, 0 0 1.3px #d5b85a, 0 0 1.4px #d5b85a, 0 0 1.5px #d5b85a, 0 0 1.6px #d5b85a, 0 0 1.7px #d5b85a, 0 0 1.8px #d5b85a, 0 0 1.8px #d5b85a;
+    letter-spacing: 0.1em;
+}

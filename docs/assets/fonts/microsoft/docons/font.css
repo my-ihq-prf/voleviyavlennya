@@ -1,0 +1,12 @@
+/* https://fontdrop.info */
+@font-face {
+    font-family: docons;
+    font-display: block;
+    src: url("i.eot");
+    src: url("i.eot") format("embedded-opentype"),
+        url("i.woff2") format("woff2"),
+        url("i.woff") format("woff"),
+        url("i.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}

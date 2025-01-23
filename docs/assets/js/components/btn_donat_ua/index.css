@@ -1,0 +1,13 @@
+.btn_inn--donat-ua_clipboard-data > div:hover {
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    margin-bottom: -1px;
+}
+
+.btn_inn--donat-ua_clipboard-data > div .btn_inn--donat-ua_clipboard-icon i svg {
+    opacity: 0.4;
+}
+
+.btn_inn--donat-ua_clipboard-data > div:hover .btn_inn--donat-ua_clipboard-icon i svg {
+    opacity: 1;
+}
